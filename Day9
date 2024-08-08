@@ -1,0 +1,12 @@
+Matrix problem
+
+
+1. Given a matrix of ‘O’ and ‘X’, replace ‘O’ with ‘X’ if surrounded by ‘X’
+2. Find the number of islands using DFS
+3. Maximum size rectangle binary sub-matrix with all 1s
+4. Rotate image
+5. Spiral matrix - lll (daily question)
+
+Two pointer and slinding window
+1. Longest repeating charachter 
+2. Maximum number of visible points
